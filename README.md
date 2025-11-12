@@ -7,7 +7,6 @@ Diseñar y desarrollar un portafolio digital profesional que comunique de forma 
 ## Usuarios
 
 ### Product Owner - Usuario Extremo 1
-
 **Nombre:** Sebastián Vargas <br>
 **edad:** 38 años<br>
 **cargo:** Product Owner en empresa tecnológica multinacional<br>
@@ -73,8 +72,8 @@ A continuación se presentan seis sitios web que sirven como **referentes para l
 ## **1. Other – Free Portfolio Template (Framer)**  
 **🔗 Fuente:** [https://other-template.framer.website/](https://other-template.framer.website/)
 
-**📸 Imagen(es):**  
-![Other Template](https://framerusercontent.com/images/screenshot-other-template.webp)
+**📸 Imagen:**  
+![Portafolio 1](Referentes/Portafolio%201.png)
 
 **📝 Qué es:**  
 Una plantilla minimalista para portafolios creativos desarrollada en **Framer**, que permite presentar proyectos en formato cuadrícula, lista o imagen completa.  
@@ -94,7 +93,7 @@ Una plantilla minimalista para portafolios creativos desarrollada en **Framer**,
 **🔗 Fuente:** [https://iamrossmason.com/](https://iamrossmason.com/)
 
 **📸 Imagen(es):**  
-![Ross Mason](https://awwwards.com/sites/ross-mason-r/screenshot.jpg)
+![Portafolio 2](Referentes/Portafolio%202.png)
 
 **📝 Qué es:**  
 Portafolio personal de un artista digital especializado en **3D, motion y dirección de arte**, con desplazamiento horizontal y fuerte impacto visual.
@@ -114,7 +113,7 @@ Portafolio personal de un artista digital especializado en **3D, motion y direcc
 **🔗 Fuente:** [https://www.ateliermatin.com/](https://www.ateliermatin.com/)
 
 **📸 Imagen(es):**  
-![Atelier Matin](https://www.ateliermatin.com/assets/og-image.jpg)
+![Portafolio 3](Referentes/Portafolio%203.png)
 
 **📝 Qué es:**  
 Estudio francés que combina **diseño gráfico, ilustración e identidad visual**, con una presentación limpia y profesional.  
@@ -133,7 +132,7 @@ Estudio francés que combina **diseño gráfico, ilustración e identidad visual
 **🔗 Fuente:** [https://www.gentle.systems/](https://www.gentle.systems/)
 
 **📸 Imagen(es):**  
-![Gentle Systems](https://gentle.systems/social.png)
+![Portafolio 4](Referentes/Portafolio%204.png)
 
 **📝 Qué es:**  
 Estudio interdisciplinario que une **diseño, tecnología e innovación**, con una estética experimental y clara estructura visual.  
@@ -152,7 +151,7 @@ Estudio interdisciplinario que une **diseño, tecnología e innovación**, con u
 **🔗 Fuente:** [https://mariajoseaguayoibarra.myportfolio.com/work](https://mariajoseaguayoibarra.myportfolio.com/work)
 
 **📸 Imagen(es):**  
-![MyPortfolio Example](https://pro2-bar-s3-cdn-cf6.myportfolio.com/fallback.jpg)
+![Portafolio 5](Referentes/Portafolio%205.png)
 
 **📝 Qué es:**  
 Portafolio personal realizado con **Adobe MyPortfolio**, enfocado en diseño gráfico e ilustración.  
@@ -171,7 +170,7 @@ Portafolio personal realizado con **Adobe MyPortfolio**, enfocado en diseño gr�
 **🔗 Fuente:** [https://gordonvonsteiner.com/](https://gordonvonsteiner.com/)
 
 **📸 Imagen(es):**  
-![Gordon von Steiner](https://gordonvonsteiner.com/og-image.jpg)
+![Portafolio 6](Referentes/Portafolio%206.png)
 
 **📝 Qué es:**  
 Portafolio personal centrado en **identidad visual, dirección creativa y diseño contemporáneo**, con un estilo visual fuerte y cinematográfico.  
@@ -184,3 +183,9 @@ Portafolio personal centrado en **identidad visual, dirección creativa y diseñ
 - Falta de información textual detallada en cada proyecto.
 
 ---
+
+## Referentes - Moodboard
+
+El moodboard presenta una **estética minimalista y editorial**, con énfasis en el **contraste entre tonos neutros y acentos rojos**.
+Refleja orden, elegancia y precisión, inspirándose en el arte contemporáneo, la moda y la arquitectura. Además **destaca la tipografía y la composición limpia** como ejes visuales.
+![Moodboard](Referentes/Moodboard.png)
