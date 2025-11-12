@@ -7,6 +7,7 @@ Diseñar y desarrollar un portafolio digital profesional que comunique de forma 
 ## Usuarios
 
 ### Product Owner - Usuario Extremo 1
+<img src="Referentes/Usuarios/1.png" alt="Usuario Extremo 1" width="300" height="300">
 **Nombre:** Sebastián Vargas <br>
 **edad:** 38 años<br>
 **cargo:** Product Owner en empresa tecnológica multinacional<br>
@@ -26,6 +27,7 @@ Diseñar y desarrollar un portafolio digital profesional que comunique de forma 
 ---
 
 ### Diseñadora Senior - Usuario Promedio
+<img src="Referentes/Usuarios/2.png" alt="Usuario Extremo 1" width="300" height="300">
 **Nombre:** Camila Pino<br>
 **Edad:** 30 años<br>
 **Cargo:** Directora de arte y diseñadora UX/UI en agencia creativa
@@ -45,8 +47,9 @@ Diseñar y desarrollar un portafolio digital profesional que comunique de forma 
 ---
 
 ### Reclutadora de Talentos - Usuario Extremo 2
+<img src="Referentes/Usuarios/3.png" alt="Usuario Extremo 1" width="300" height="300">
 **Nombre:** Carolina Espinoza <br>
-**Edad:** 35 años<br>
+**Edad:** 40 años<br>
 **Cargo:** Analista Senior de Atracción de Talento en empresa nacional.
 
 **Comportamientos y Creencias**
