@@ -1,0 +1,145 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background: #fff;
+    color: #000;
+    line-height: 1.4;
+    display: flex;
+}
+
+/* ---------------------------
+   SIDEBAR VERTICAL
+----------------------------*/
+.sidebar {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    padding: 2rem 1rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #000;
+    border-right: 1px solid #eee;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li {
+    margin-bottom: 2rem;
+}
+
+/* ---------------------------
+   CONTENIDO
+----------------------------*/
+.content {
+    margin-left: 80px; /* espacio para la sidebar */
+    padding: 3rem 4rem;
+    width: 100%;
+    max-width: 1400px;
+}
+
+/* Texto superior derecha */
+.top-right {
+    text-align: right;
+    font-size: 0.8rem;
+    color: #999;
+    margin-bottom: 3rem;
+}
+
+/* ---------------------------
+   SECCIÓN FEATURED WORKS
+----------------------------*/
+.section-title {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 2rem;
+}
+
+/* ---------------------------
+   PROYECTOS
+----------------------------*/
+.project {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr 0.6fr;
+    gap: 2rem;
+    margin-bottom: 4rem;
+}
+
+.project-title {
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: "Impact", "Anton", sans-serif; /* similar a la tipografía del screenshot */
+    margin-bottom: 1rem;
+}
+
+.description {
+    font-size: 0.9rem;
+    max-width: 420px;
+    margin-bottom: 1rem;
+    color: #454545;
+}
+
+.visit {
+    font-size: 0.9rem;
+    color: #000;
+    text-decoration: underline;
+}
+
+.project-meta,
+.project-role {
+    font-size: 0.85rem;
+    color: #444;
+}
+
+.project-meta strong,
+.project-role strong {
+    color: #000;
+    font-weight: 600;
+}
+
+/* Línea divisoria */
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 2rem 0;
+}
+
+/* ---------------------------
+   RESPONSIVE
+----------------------------*/
+@media (max-width: 900px) {
+    .project {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+        position: absolute;
+        writing-mode: horizontal-tb;
+        transform: none;
+        height: auto;
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #eee;
+        display: flex;
+        justify-content: center;
+        padding: 1rem;
+    }
+
+    .content {
+        margin-left: 0;
+        padding-top: 5rem;
+    }
+}
+
