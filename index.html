@@ -1,117 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Jasmin Castillo - Portafolio</title>
+    <link href="style.css" rel="stylesheet" />
 </head>
-
 <body>
+   <header class="top-nav">
+    <div class="logo">Jasmín<span>Castillo</span></div>
 
-    <aside class="sidebar">
-        <nav>
-            <ul>
-                <li>TRABAJO</li>
-                <li>SOBRE MÍ</li>
-                <li>CONTACTO</li>
-            </ul>
-        </nav>
-    </aside>
+    <nav class="nav-links">
+      <a href="#sobre-mi">Sobre mí</a>
+      <a href="#proyectos">Proyectos</a>
+    </nav>
 
-    <main class="content">
+    <a href="#contacto" class="nav-cta">Trabajemos juntos</a>
+   </header>
 
-        <!-- HEADER -->
-        <header class="top-right">
-            <span>currently living in<br>Chile</span>
-        </header>
+<main>
+    <section class="hero">
+      <div class="hero-text">
+        <h1 class="hero-title">DISEÑO CON</h1>
+        <h2 class="hero-subtitle">Propósito y detalle</h2>
+      </div>
+      <div class="scroll-indicator">
+        Desliza
+      </div>
+    </section>
 
-        <section class="featured">
-            <p class="section-title">Trabajos</p>
+<section id="proyectos" class="projects-section">
+      <div class="projects-grid">
+        <article class="project-card">
+          <h3 class="project-title">Rediseño sitio web Yo mujer</h3>
+          <div class="project-image project-image--1" data-direction="left">
+            <img src="https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Yomujer.jpg" alt="Rediseño sitio web Yo mujer">
+          </div>
+        </article>
 
-            <!-- PROYECTO 1 -->
-            <article class="project">
-                <div class="project-info">
-                    <h1 class="project-title">Trabajo 1</h1>
-                    <p class="description">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-                    <a href="#" class="visit">Behance</a>
-                </div>
+        <article class="project-card">
+          <h3 class="project-title">Plataforma MediGo!</h3>
+          <div class="project-image project-image--2" data-direction="right">
+            <img src="https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Medigo.jpg" alt="Plataforma MediGo!">
+          </div>
+        </article>
 
-                <div class="project-meta">
-                    <div>
-                        <p><strong>Cliente y colaboradores</strong></p>
-                        <p>Denova Media (Client)</p>
-                        <p>Olacodes (Designer)</p>
-                        <p>Yinka (UX Writer)</p>
-                    </div>
-                </div>
+        <article class="project-card">
+          <h3 class="project-title">App Páginas amarillas</h3>
+          <div class="project-image project-image--3" data-direction="left">
+            <img src="https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/P.amarillas.jpg" alt="App Páginas amarillas">
+          </div>
+        </article>
 
-                <div class="project-role">
-                    <p><strong>Rol</strong></p>
-                    <p>Frontend Developer</p>
-                    <p>SEO Manager</p>
-                </div>
-            </article>
-
-            <hr>
-
-            <!-- PROYECTO 2 -->
-            <article class="project">
-                <div class="project-info">
-                    <h1 class="project-title">Trabajo 2</h1>
-                    <p class="description">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.#
-                    </p>
-                    <a href="#" class="visit">Behance</a>
-                </div>
-
-                <div class="project-meta">
-                    <div>
-                        <p><strong>Client y colaboradores</strong></p>
-                        <p>Denova Media (Client)</p>
-                        <p>Olacodes (Designer)</p>
-                        <p>Yinka (UX Writer)</p>
-                    </div>
-                </div>
-
-                <div class="project-role">
-                    <p><strong>Rol</strong></p>
-                    <p>Frontend Developer</p>
-                    <p>SEO Manager</p>
-                </div>
-            </article>
-
-            <hr>
-
-            <article class="project">
-                <div class="project-info">
-                    <h1 class="project-title">Trabajo 3</h1>
-                    <p class="description">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.#
-                    </p>
-                </div>
-
-                <div class="project-meta">
-                    <div>
-                        <p><strong>Client y colaboradores</strong></p>
-                        <p>Denova Media (Client)</p>
-                        <p>Olacodes (Designer)</p>
-                        <p>Yinka (UX Writer)</p>
-                    </div>
-                </div>
-
-                <div class="project-role">
-                    <p><strong>Rol</strong></p>
-                    <p>Frontend Developer</p>
-                    <p>SEO Manager</p>
-                </div>
-            </article>
-
-        </section>
-    </main>
-
-</body>
-</html>
-
+        <article class="project-card">
+          <h3 class="project-title">Libro Rojo Carmín</h3>
+          <div class="project-image project-image--4" data-direction="right">
+            <img src="https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Rojocarmin.jpg" alt="Libro Rojo Carmín">
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
