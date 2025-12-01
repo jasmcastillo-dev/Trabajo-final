@@ -277,6 +277,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const img = document.createElement('img');
             img.src = imgSrc;
             img.alt = project.title;
+            img.loading = 'lazy';
             galleryContainer.appendChild(img);
         });
         
