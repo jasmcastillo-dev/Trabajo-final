@@ -150,12 +150,23 @@ a:hover {
         border-color 0.2s ease,
         color 0.2s ease;
     flex-shrink: 0;
+    animation: float 3s ease-in-out infinite;
 }
 
 .scroll-indicator:hover {
     border-color: var(--accent-red);
     color: var(--accent-red);
 }
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0) translateX(-50%);
+    }
+    50% {
+        transform: translateY(10px) translateX(-50%);
+    }
+}
+
 
 /* PROYECTOS */
 
