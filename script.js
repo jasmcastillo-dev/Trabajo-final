@@ -76,11 +76,6 @@ document.addEventListener("DOMContentLoaded", () => {
                             "<strong>Contenido organizado y emocional:</strong> Estructura de información nueva con mayor conexión emocional para las usuarias."
                         ]
                     },
-                    {
-                        title: "Resultados",
-                        text: "Sitio web alineado con la identidad visual nueva de Yo mujer",
-        
-                    }
                 ]
             },
             gallery: [
