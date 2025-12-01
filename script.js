@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "medigo": {
             title: "Plataforma MediGo!",
             category: "Diseño de plataforma medica • Product Design • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/img/Medigo.png",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Medigo1.jpg",
             info: {
                 cliente: "4ID science",
                 rol: "UX/UI Designer",
@@ -126,8 +126,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Medigo.jpg",
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Medigo.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo2.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo3.jpg",
             ],
             navigation: {
                 prev: "yo-mujer",
