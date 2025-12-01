@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "rojo-carmin": {
             title: "Libro Rojo Carmín",
             category: "Diseño Editorial • Identidad Visual • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rcarmin.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rcarmin.png",
             info: {
                 cliente: "Proyecto Independiente",
                 rol: "Diseñador Editorial",
@@ -200,7 +200,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo.jpg",
                 "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo1.jpg",
                 "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo2.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo3.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo3.png"
             ],
             navigation: {
                 prev: "paginas-amarillas",
