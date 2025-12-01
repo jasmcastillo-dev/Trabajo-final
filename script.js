@@ -325,3 +325,36 @@ document.addEventListener("DOMContentLoaded", () => {
         navContainer.innerHTML = navHTML;
     }
 });
+
+/* =============== ANIMACIÓN SCROLL: FADE UP =============== */
+
+function setupScrollAnimations() {
+    const elements = document.querySelectorAll('.reveal');
+
+    if (!elements.length) return;
+
+    // Fallback si el navegador no soporta IntersectionObserver
+    if (!('IntersectionObserver' in window)) {
+        elements.forEach(el => el.classList.add('is-visible'));
+        return;
+    }
+
+    const observer = new IntersectionObserver(
+        (entries, obs) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('is-visible');
+                    obs.unobserve(entry.target); // solo una vez
+                }
+            });
+        },
+        {
+            threshold: 0.15 // 15% visible para activar
+        }
+    );
+
+    elements.forEach(el => observer.observe(el));
+}
+
+// No choca con tu otro DOMContentLoaded, se suman
+document.addEventListener('DOMContentLoaded', setupScrollAnimations);
