@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "yo-mujer": {
             title: "Sitio web Yo Mujer",
             category: "Rediseño sitio web • UX/UI • 2025",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer1.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer1.webp",
             info: {
                 cliente: "Yo Mujer",
                 rol: "UX/UI Designer",
@@ -79,8 +79,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer2.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer3.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer2.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer3.webp"
             ],
             navigation: {
                 prev: null,
@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "medigo": {
             title: "Plataforma MediGo!",
             category: "Diseño de plataforma medica • Product Design • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Medigo1.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Medigo1.webp",
             info: {
                 cliente: "4ID science",
                 rol: "UX/UI Designer",
@@ -121,8 +121,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo2.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo3.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo2.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/medigo3.webp",
             ],
             navigation: {
                 prev: "yo-mujer",
@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "paginas-amarillas": {
             title: "App Páginas Amarillas",
             category: "Diseño Móvil • UX/UI • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas2.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas2.webp",
             info: {
                 cliente: "Proyecto Independiente",
                 rol: "UX/UI Designer",
@@ -163,8 +163,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/pamarillas.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas1.png"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/pamarillas.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas1.webp"
             ],
             navigation: {
                 prev: "medigo",
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "rojo-carmin": {
             title: "Libro Rojo Carmín",
             category: "Diseño Editorial • Identidad Visual • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rcarmin.png",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rcarmin.webp",
             info: {
                 cliente: "Proyecto Independiente",
                 rol: "Diseñador Editorial",
@@ -197,10 +197,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo1.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo2.jpg",
-                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo3.png"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo1.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo2.webp",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo3.webp"
             ],
             navigation: {
                 prev: "paginas-amarillas",
