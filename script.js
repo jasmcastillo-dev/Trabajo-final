@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "yo-mujer": {
             title: "Sitio web Yo Mujer",
             category: "Rediseño sitio web • UX/UI • 2025",
-            mainImage: "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Yomujer.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer1.jpg",
             info: {
                 cliente: "Yo Mujer",
                 rol: "UX/UI Designer",
@@ -84,8 +84,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Yomujer.jpg",
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Yomujer.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer2.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/yomujer3.jpg"
             ],
             navigation: {
                 prev: null,
@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "paginas-amarillas": {
             title: "App Páginas Amarillas",
             category: "Diseño Móvil • UX/UI • 2024",
-            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Clase-10/main/img/Pamarillas.png",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas2.jpg",
             info: {
                 cliente: "Proyecto Independiente",
                 rol: "UX/UI Designer",
@@ -168,8 +168,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/P.amarillas.jpg",
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/P.amarillas.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/pamarillas.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Pamarillas1.png"
             ],
             navigation: {
                 prev: "medigo",
@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "rojo-carmin": {
             title: "Libro Rojo Carmín",
             category: "Diseño Editorial • Identidad Visual • 2024",
-            mainImage: "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Rojocarmin.jpg",
+            mainImage: "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rcarmin.jpg",
             info: {
                 cliente: "Proyecto Independiente",
                 rol: "Diseñador Editorial",
@@ -202,9 +202,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 ]
             },
             gallery: [
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Rojocarmin.jpg",
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Rojocarmin.jpg",
-                "https://github.com/jasmcastillo-dev/Evaluacion-2/raw/main/Rojocarmin.jpg"
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo1.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo2.jpg",
+                "https://raw.githubusercontent.com/jasmcastillo-dev/Trabajo-final/main/Img/Rojo3.jpg"
             ],
             navigation: {
                 prev: "paginas-amarillas",
