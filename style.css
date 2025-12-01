@@ -447,6 +447,14 @@ a:hover {
     max-width: 400px;
     height: 540px;
     background-color: #dedede;
+    overflow: hidden; 
+}
+
+.about-image-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;   /* llena el bloque respetando proporciones */
+    display: block;      /* evita espacios raros debajo */
 }
 
 .about-content {
